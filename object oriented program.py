@@ -15,7 +15,7 @@ class ajay:
      name = 'ajay'
      age = 20
      def fun(self):     # always use self as first paramrter
-          print 'class is work properly'
+          print('class is work properly')
      
 
 # create object : 
